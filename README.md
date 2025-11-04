@@ -34,13 +34,47 @@ What did you learn from it?
 در laravel به خاطر مفسری بودن استفاده نکردم
 
 
+
+### 6. Please describe yourself using JSON format
+
+```json
 {
-  "name": "Ali Rezaei",
-  "role": "Backend Developer (.NET)",
-  "experience": "2 years",
-  "skills": ["C#", "ASP.NET Core", "Entity Framework", "SQL", "REST API"],
-  "interests": ["Clean Code", "System Design", "AI"],
-  "location": "Tehran, Iran"
+  "name": "Ali Ahmadi",
+  "role": "Backend Developer",
+  "mainStack": "C# (.NET Core), ASP.NET Core Web API",
+  "experienceYears": 2,
+  "skills": [
+    "REST API Development",
+    "HttpClient & External API Integration",
+    "JSON Serialization/Deserialization",
+    "Unit Testing (xUnit, Moq)",
+    "Clean Code & SOLID Principles",
+    "Dependency Injection"
+  ],
+  "projects": [
+    {
+      "name": "WeatherApi Project",
+      "description": "A .NET Core Web API that returns weather and air quality information for a city using OpenWeatherMap API.",
+      "technologies": ["C#", ".NET 7", "ASP.NET Core", "HttpClient", "JSON"]
+    }
+  ],
+  "performanceMonitoring": [
+    "Application Insights",
+    "Profiling with dotnet-trace",
+    "SQL query optimization",
+    "Logging with Serilog"
+  ],
+  "learning": [
+    "Microservices architecture",
+    "Cloud deployment (Azure, AWS)",
+    "Advanced API testing"
+  ],
+  "location": "Tehran, Iran",
+  "availability": "Full-time",
+  "contact": {
+    "email": "your.email@example.com",
+    "github": "https://github.com/YourUsername"
+  }
 }
 
 

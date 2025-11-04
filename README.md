@@ -39,42 +39,26 @@ What did you learn from it?
 
 ```json
 {
-  "name": "Ali Ahmadi",
+  "name": "َAmirHossein Aghaei",
   "role": "Backend Developer",
-  "mainStack": "C# (.NET Core), ASP.NET Core Web API",
-  "experienceYears": 2,
-  "skills": [
-    "REST API Development",
-    "HttpClient & External API Integration",
-    "JSON Serialization/Deserialization",
-    "Unit Testing (xUnit, Moq)",
-    "Clean Code & SOLID Principles",
-    "Dependency Injection"
-  ],
-  "projects": [
-    {
-      "name": "WeatherApi Project",
-      "description": "A .NET Core Web API that returns weather and air quality information for a city using OpenWeatherMap API.",
-      "technologies": ["C#", ".NET 7", "ASP.NET Core", "HttpClient", "JSON"]
-    }
-  ],
-  "performanceMonitoring": [
-    "Application Insights",
-    "Profiling with dotnet-trace",
-    "SQL query optimization",
-    "Logging with Serilog"
-  ],
-  "learning": [
-    "Microservices architecture",
-    "Cloud deployment (Azure, AWS)",
-    "Advanced API testing"
-  ],
+  "mainStack": "C# (.NET Core), ASP.NET Core Web API, PHP, Laravel",
+  "militaryStatus": {
+    "exemption": "Exempted"
+  }
+  "age": 22,
   "location": "Tehran, Iran",
   "availability": "Full-time",
   "contact": {
-    "email": "your.email@example.com",
-    "github": "https://github.com/YourUsername"
+    "email": "hosseinaqaei931@gmail.com",
+    "github": "https://github.com/AmirHosseinAghaei82"
+    "linkedin": "https://www.linkedin.com/in/amirhossein-aghaei-b14786308"
   }
+  "education": {
+    "status": "Student",
+    "university": "Tehran Markaz",
+    "major": "Computer Engineering"
+  }
+
 }
 
 
